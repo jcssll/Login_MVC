@@ -90,10 +90,10 @@
   <ItemGroup>
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="Global.asax" />
-    <Content Include="images\bg.jpg" />
+    <Content Include="imgs\bg.jpg" />
     <Content Include="imgs\andy-fitzsimon-nHhGuO-2YPw-unsplash.jpg" />
-    <Content Include="imgs\black-and-white-clean-housework-launderette-4414.jpg" />
-    <Content Include="imgs\flo-karr-bjntZxqgPf0-unsplash.jpg" />
+    <Content Include="images\bg.jpg" />
+    <Content Include="images\flo-karr-bjntZxqgPf0-unsplash.jpg" />
     <Content Include="imgs\Lucas+Laundry+-+Logo.jpg" />
     <Content Include="styles\font-awesome.min.css" />
     <Content Include="styles\style.css" />
